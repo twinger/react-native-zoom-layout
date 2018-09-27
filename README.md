@@ -35,10 +35,7 @@ import ZoomLayout from 'react-native-zoom-layout';
 	minZoom={1}
 	maxZoom={10}
 	style={{}}>
-	<View style={{
-		width: height,
-		height: width,
-	}}>
+
 		//your view
 </ZoomLayout>
 
