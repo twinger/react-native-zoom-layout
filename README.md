@@ -30,17 +30,17 @@
 ```javascript
 import ZoomLayout from 'react-native-zoom-layout';
 
- 				<ZoomLayout
-          ref={ref => this.zoomLayout = ref}
-          minZoom={1}
-          maxZoom={10}
-          style={{}}>
-          <View style={{
-            width: height,
-            height: width,
-          }}>
-            //your view
-        </ZoomLayout>
+<ZoomLayout
+	ref={ref => this.zoomLayout = ref}
+	minZoom={1}
+	maxZoom={10}
+	style={{}}>
+	<View style={{
+		width: height,
+		height: width,
+	}}>
+		//your view
+</ZoomLayout>
 
 ```
   
