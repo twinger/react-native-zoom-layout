@@ -1,5 +1,5 @@
 
-package vn.vinhomes.vincity;
+package co.twinger.zoomlayout;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

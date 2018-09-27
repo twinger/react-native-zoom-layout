@@ -1,4 +1,4 @@
-package vn.vinhomes.vincity;
+package co.twinger.zoomlayout;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

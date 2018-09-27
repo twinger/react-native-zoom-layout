@@ -1,4 +1,4 @@
-package vn.vinhomes.vincity;
+package co.twinger.zoomlayout;
 
 import android.util.Log;
 
