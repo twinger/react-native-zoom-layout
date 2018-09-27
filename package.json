@@ -1,0 +1,24 @@
+{
+  "name": "react-native-zoom-layout",
+  "version": "1.0.0",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "zoom pinch view",
+    "zoom layout"
+  ],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twinger/react-native-zoom-layout.git"
+  },
+  "author": "TienDH",
+  "email": "daohoangtien@gmail.com",
+  "url": "https://github.com/yaraht17",
+  "website": "twinger.co",
+  "license": "MIT"
+}
